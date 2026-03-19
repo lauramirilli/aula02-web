@@ -1,0 +1,1 @@
+Na aula de hoje vi os tipos de variáveis, escopos globais e de bloco, comparação com == e ===, operadores relacionais e lógicos.
